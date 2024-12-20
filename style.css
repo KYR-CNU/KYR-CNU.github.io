@@ -1,10 +1,28 @@
 body {
+    cursor: url(http://cur.cursors-4u.net/symbols/sym-6/sym600.cur), progress !important;), progress;
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
+}    
+
+h3 {
+    color: #e00000;
+  }  
+
+b {
+    color: #e00000;
+  }  
+
+  pre {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+  }
+
+img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .container {
